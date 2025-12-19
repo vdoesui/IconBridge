@@ -18,7 +18,8 @@
     "audio.editor": [
         "audacity",
         "ardour",
-        "lmms"
+        "lmms",
+        "com.audacity.editor"
     ],
     "btop": [
         "btop",
@@ -1009,7 +1010,8 @@
         "webcord",
         "armcord",
         "vesktop",
-        "ripcord"
+        "ripcord",
+        "com.discordapp.Discord"
     ],
     "com.github.android": [
         "github-desktop",
@@ -1128,7 +1130,8 @@
     ],
     "com.google.android.apps.docs.editors.docs": [
         "libreoffice-writer",
-        "libreoffice"
+        "libreoffice",
+        "org.libreoffice.LibreOffice"
     ],
     "com.google.android.apps.docs.editors.sheets": [
         "libreoffice-calc"
@@ -1264,7 +1267,8 @@
         "sylpheed",
         "mailspring",
         "trojita",
-        "balsa"
+        "balsa",
+        "org.mozilla.thunderbird"
     ],
     "com.google.android.keep": [
         "knotes",
@@ -1291,7 +1295,8 @@
         "youtube",
         "plasmatube",
         "freetube",
-        "smtube"
+        "smtube",
+        "io.github.Flschaal.Vortex"
     ],
     "com.google.android.youtube.music": [
         "spotify",
@@ -1321,7 +1326,8 @@
         "freeoffice",
         "onlyoffice",
         "abiword",
-        "gnumeric"
+        "gnumeric",
+        "org.libreoffice.LibreOffice"
     ],
     "com.microsoft.office.onenote": [
         "xpad",
@@ -1335,7 +1341,8 @@
         "evolution",
         "ms-outlook",
         "web-outlook",
-        "evolution-mail"
+        "evolution-mail",
+        "org.mozilla.thunderbird"
     ],
     "com.microsoft.office.powerpoint": [
         "libreoffice-impress"
@@ -1398,7 +1405,8 @@
         "ncspot",
         "spicetify",
         "spotify-client",
-        "spotify"
+        "spotify",
+        "com.spotify.Client"
     ],
     "com.teamviewer.host.market": [
         "teamviewer",
@@ -1610,7 +1618,10 @@
         "krita",
         "org.kde.krita",
         "darktable",
-        "digikam"
+        "digikam",
+        "org.gimp.GIMP",
+        "org.inkscape.Inkscape",
+        "org.blender.Blender"
     ],
     "im.vector.app": [
         "element-desktop"
@@ -1674,7 +1685,8 @@
         "xpad",
         "obsidian",
         "logseq",
-        "joplin"
+        "joplin",
+        "md.obsidian.Obsidian"
     ],
     "office.suite": [
         "libreoffice-startcenter",
@@ -1925,7 +1937,8 @@
         "celluloid",
         "smplayer",
         "haruna",
-        "dragonplayer"
+        "dragonplayer",
+        "org.videolan.VLC"
     ],
     "virtualization": [
         "virt-manager",
@@ -2367,7 +2380,8 @@
     "md.obsidian": [
         "obsidian",
         "obsidian-app",
-        "com.obsidian.Obsidian"
+        "com.obsidian.Obsidian",
+        "md.obsidian.Obsidian"
     ],
     "com.openrgb.android": [
         "openrgb"
@@ -2379,7 +2393,8 @@
     "org.shadowice.flocke.keepassxc": [
         "keepassxc",
         "keepassx",
-        "keepass"
+        "keepass",
+        "org.keepassxc.KeePassXC"
     ],
     "com.olive.editor": [
         "olive-editor"
