@@ -1296,7 +1296,9 @@
         "plasmatube",
         "freetube",
         "smtube",
-        "io.github.Flschaal.Vortex"
+        "io.github.Flschaal.Vortex",
+        "stremio",
+        "com.stremio.Stremio"
     ],
     "com.google.android.youtube.music": [
         "spotify",
@@ -1306,6 +1308,7 @@
     ],
     "com.HoYoverse.ZenlessZoneZero": [
         "sleepy-launcher",
+        "moe.launcher.sleepy-launcher",
         "sleepy-launcher-zzz",
         "zenless-zone-zero",
         "zzz"
@@ -1363,7 +1366,8 @@
         "an-anime-game-launcher",
         "anime-game-launcher",
         "genshin-impact",
-        "genshinimpact"
+        "genshinimpact",
+        "moe.launcher.an-anime-game-launcher"
     ],
     "com.nvidia.geforcenow": [
         "geforcenow",
@@ -1611,10 +1615,18 @@
         "cartridges",
         "retroarch"
     ],
-    "graphic.design": [
+    "com.mojang.minecraftpe": [
+        "minecraft-launcher",
+        "minecraft",
+        "polyMC",
+        "prismlauncher",
+        "multiMC",
+        "modrinth",
+        "com.modrinth.ModrinthApp"
+    ],
+    "org.krita": [
         "gimp",
         "inkscape",
-        "blender",
         "krita",
         "org.kde.krita",
         "darktable",
@@ -1623,6 +1635,7 @@
         "org.inkscape.Inkscape",
         "org.blender.Blender"
     ],
+    
     "im.vector.app": [
         "element-desktop"
     ],
