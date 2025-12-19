@@ -1633,7 +1633,7 @@
         "digikam",
         "org.gimp.GIMP",
         "org.inkscape.Inkscape",
-        "org.blender.Blender"
+        "pinta"
     ],
     
     "im.vector.app": [
