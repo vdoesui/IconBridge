@@ -1633,7 +1633,8 @@
         "digikam",
         "org.gimp.GIMP",
         "org.inkscape.Inkscape",
-        "pinta"
+        "pinta",
+        "com.github.PintaProject.Pinta"
     ],
     
     "im.vector.app": [
@@ -1717,7 +1718,7 @@
         "gimp",
         "krita",
         "pinta",
-        "org.pinta.Pinta",
+        "com.github.PintaProject.Pinta",
         "inkscape",
         "blender",
         "mypaint",
@@ -1797,7 +1798,7 @@
     ],
     "paint.app": [
         "pinta",
-        "org.pinta.Pinta",
+        "com.github.PintaProject.Pinta",
         "mypaint",
         "kolourpaint",
         "org.kde.kolourpaint",
@@ -2105,6 +2106,7 @@
         "azpainter",
         "tuxpaint",
         "pinta",
+        "com.github.PintaProject.Pinta",
         "mypaint",
         "drawing",
         "gpaint"
