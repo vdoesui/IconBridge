@@ -1,0 +1,2740 @@
+{
+    "anime.launcher": [
+        "anime-games-launcher",
+        "sleepy-launcher",
+        "heroic",
+        "lutris",
+        "steam"
+    ],
+    "archive.manager": [
+        "ark",
+        "org.kde.ark",
+        "file-roller",
+        "org.gnome.FileRoller",
+        "engrampa",
+        "xarchiver",
+        "peazip"
+    ],
+    "audio.editor": [
+        "audacity",
+        "ardour",
+        "lmms"
+    ],
+    "btop": [
+        "btop",
+        "htop",
+        "mission-center",
+        "io.missioncenter.MissionCenter",
+        "plasma-systemmonitor",
+        "gnome-system-monitor",
+        "org.gnome.SystemMonitor"
+    ],
+    "clipboard.manager": [
+        "copyq",
+        "org.kde.klipper",
+        "klipper",
+        "clipman",
+        "wl-clipboard",
+        "cliphist"
+    ],
+    "com.aagl.genshin": [
+        "an-anime-game-launcher",
+        "sleepy-launcher",
+        "sleepy-launcher-genshin",
+        "honkers-launcher",
+        "the-honkers-railway-launcher",
+        "anime-game-launcher"
+    ],
+    "com.adobe.reader": [
+        "okular",
+        "org.kde.okular",
+        "evince",
+        "atril",
+        "acroread",
+        "adobe-reader",
+        "AdobeReader",
+        "com.adobe.Reader"
+    ],
+    "com.android.bluetooth": [
+        "blueman-plugin",
+        "blueman-send-file",
+        "blueman-trust",
+        "blueman-untrust",
+        "blueman-plugin",
+        "blueman-send-file",
+        "blueman-trust",
+        "blueman-untrust"
+    ],
+    "com.android.calculator": [
+        "stock_calc-accept",
+        "stock_calc-cancel",
+        "stock_calc-accept",
+        "stock_calc-cancel",
+        "accessories-calculator",
+        "mathmode",
+        "insert-math-expression",
+        "formula",
+        "x-shape-formula",
+        "accessories-calculator",
+        "mathmode",
+        "insert-math-expression",
+        "formula",
+        "x-shape-formula",
+        "stock_calc-accept",
+        "stock_calc-cancel"
+    ],
+    "com.android.calculator2": [
+        "kcalc",
+        "org.kde.kcalc",
+        "gnome-calculator",
+        "org.gnome.Calculator",
+        "galculator",
+        "mate-calc",
+        "qalculate-gtk"
+    ],
+    "com.android.calendar": [
+        "stock_new-appointment",
+        "view-calendar-agenda",
+        "view-calendar-birthday",
+        "view-calendar-day",
+        "view-calendar-holiday",
+        "view-calendar-journal",
+        "view-calendar-list",
+        "view-calendar-month",
+        "view-calendar-special-occasion",
+        "appointment-new",
+        "appointment",
+        "accept_time_event",
+        "amarok_clock",
+        "clock",
+        "clock-large",
+        "view-calendar",
+        "view-calendar",
+        "view-calendar-timeline",
+        "view-calendar-upcoming-events",
+        "appointment-new",
+        "stock_new-appointment",
+        "knotes_date",
+        "knotes_alarm",
+        "view-calendar",
+        "view-calendar-timeline",
+        "view-calendar-journal",
+        "view-calendar-upcoming-events",
+        "appointment-new",
+        "knotes_date",
+        "stock_new-appointment",
+        "amarok_clock",
+        "appointment-new",
+        "appointment",
+        "knotes_alarm",
+        "appointment-new",
+        "view-calendar",
+        "view-calendar-timeline",
+        "view-calendar-month",
+        "view-calendar-week",
+        "view-calendar-day",
+        "appointment",
+        "knotes_date",
+        "view-calendar",
+        "view-calendar-timeline",
+        "view-calendar-upcoming-events",
+        "appointment-new",
+        "appointment",
+        "knotes_date",
+        "knotes_alarm",
+        "stock_new-appointment",
+        "view-calendar",
+        "view-calendar-timeline",
+        "view-calendar-upcoming-events",
+        "appointment-new",
+        "stock_new-appointment",
+        "knotes_date",
+        "knotes_alarm",
+        "appointment-new",
+        "appointment",
+        "accept_time_event",
+        "amarok_clock",
+        "clock",
+        "clock-large",
+        "view-calendar",
+        "view-calendar",
+        "view-calendar-timeline",
+        "view-calendar-upcoming-events",
+        "appointment-new",
+        "stock_new-appointment",
+        "knotes_date",
+        "knotes_alarm",
+        "stock_new-appointment",
+        "view-calendar-agenda",
+        "view-calendar-birthday",
+        "view-calendar-day",
+        "view-calendar-holiday",
+        "view-calendar-journal",
+        "view-calendar-list",
+        "view-calendar-month",
+        "view-calendar-special-occasion",
+        "view-calendar",
+        "view-calendar-timeline",
+        "view-calendar-upcoming-events",
+        "appointment-new",
+        "stock_new-appointment",
+        "knotes_date",
+        "knotes_alarm",
+        "stock_new-appointment",
+        "view-calendar-agenda",
+        "view-calendar-birthday",
+        "view-calendar-day",
+        "view-calendar-holiday",
+        "view-calendar-journal",
+        "view-calendar-list",
+        "view-calendar-month",
+        "view-calendar-special-occasion"
+    ],
+    "com.android.camera": [
+        "cheese",
+        "org.gnome.Cheese",
+        "kamoso"
+    ],
+    "com.android.camera2": [
+        "camera-photo",
+        "camera-video",
+        "image-auto-adjust",
+        "video",
+        "edit-image",
+        "camera-photo",
+        "camera-video",
+        "image-auto-adjust",
+        "video",
+        "videoclip-amarok",
+        "camera-photo",
+        "camera-video",
+        "camera-web",
+        "burst",
+        "image-auto-adjust",
+        "edit-image",
+        "camera-photo",
+        "camera-video",
+        "image-auto-adjust",
+        "video",
+        "edit-image",
+        "camera-photo",
+        "camera-video",
+        "image-auto-adjust",
+        "video",
+        "edit-image",
+        "camera-photo",
+        "camera-video",
+        "camera-web",
+        "burst",
+        "image-auto-adjust",
+        "edit-image",
+        "camera-photo",
+        "camera-video",
+        "image-auto-adjust",
+        "video",
+        "videoclip-amarok",
+        "camera-photo",
+        "camera-video",
+        "image-auto-adjust",
+        "video",
+        "edit-image"
+    ],
+    "com.android.chrome": [
+        "browser-cookies",
+        "browser-download",
+        "map-globe",
+        "earthquake",
+        "globe",
+        "browser-cookies",
+        "application-url",
+        "map-globe",
+        "earthquake",
+        "atmosphere",
+        "browser-cookies",
+        "browser-download",
+        "map-globe",
+        "earthquake",
+        "browser-cookies",
+        "browser-download",
+        "map-globe",
+        "earthquake",
+        "browser-cookies",
+        "application-url",
+        "map-globe",
+        "earthquake",
+        "atmosphere",
+        "7596_iexplore.0",
+        "81F5_winebrowser.0",
+        "internet-web-browser",
+        "web-browser",
+        "google-chrome",
+        "chromium",
+        "epiphany",
+        "konqueror",
+        "iexplore",
+        "arora",
+        "midori",
+        "dillo",
+        "rekonq",
+        "browser",
+        "chromium-browser",
+        "galeon",
+        "com.google.Chrome"
+    ],
+    "com.android.contacts": [
+        "address-book-new",
+        "contact-new",
+        "list-add-user",
+        "im-user",
+        "user-identity",
+        "addressbook-details",
+        "view-pim-contacts",
+        "address-book-new",
+        "contact-new",
+        "im-user",
+        "user-identity",
+        "list-add-user",
+        "list-remove-user",
+        "stock_new-address-book",
+        "amarok_artist",
+        "address-book-new",
+        "addressbook-details",
+        "adress-book-new",
+        "bibtex",
+        "address-book-new",
+        "contact-new",
+        "im-user",
+        "user-identity",
+        "stock_new-address-book",
+        "stock_contact-list",
+        "stock_new-bcard",
+        "stock_new-address-book",
+        "address-book-new",
+        "contact-new",
+        "im-user",
+        "user-identity",
+        "list-add-user",
+        "list-remove-user",
+        "stock_new-address-book",
+        "stock_contact-list",
+        "stock_contact-list",
+        "stock_new-bcard",
+        "stock_new-address-book",
+        "stock_contact-list",
+        "stock_new-bcard",
+        "stock_new-address-book",
+        "address-book-new",
+        "contact-new",
+        "im-user",
+        "user-identity",
+        "list-add-user",
+        "list-remove-user",
+        "stock_new-address-book",
+        "address-book-new",
+        "addressbook-details",
+        "adress-book-new",
+        "bibtex",
+        "contact-new",
+        "im-user",
+        "user-identity",
+        "actor",
+        "amarok_artist",
+        "address-book-new",
+        "contact-new",
+        "im-user",
+        "user-identity",
+        "stock_new-address-book",
+        "stock_contact-list",
+        "address-book-new",
+        "addressbook-details",
+        "adress-book-new",
+        "bibtex",
+        "contact-new",
+        "im-user",
+        "user-identity",
+        "actor",
+        "amarok_artist",
+        "address-book-new",
+        "contact-new",
+        "im-user",
+        "user-identity",
+        "list-add-user",
+        "list-remove-user",
+        "stock_new-address-book",
+        "stock_contact-list"
+    ],
+    "com.android.documentsui": [
+        "archive-insert-directory",
+        "folder-new",
+        "albumfolder-importdir",
+        "albumfolder-new",
+        "folder-new",
+        "document-open",
+        "document-open-folder",
+        "archive-insert-directory",
+        "gtk-directory",
+        "folder_new",
+        "folder-new",
+        "folder-open-recent",
+        "folder-stash",
+        "folder-sync",
+        "gtk-directory",
+        "document-new",
+        "document-open",
+        "document-open-folder",
+        "document-save",
+        "document-save-as",
+        "document-properties",
+        "archive-extract",
+        "archive-insert",
+        "archive-insert-directory",
+        "stock_new-dir",
+        "folder-new",
+        "folder-sync",
+        "folder-stash",
+        "folder-open-recent",
+        "gtk-directory",
+        "stock_new-dir",
+        "archive-insert-directory",
+        "document-new",
+        "document-open",
+        "document-open-folder",
+        "document-open-recent",
+        "document-save",
+        "document-save-as",
+        "document-properties",
+        "document-cleanup",
+        "folder-new",
+        "folder-open-recent",
+        "folder-sync",
+        "folder-stash",
+        "gtk-directory",
+        "stock_new-dir",
+        "archive-insert-directory",
+        "document-new",
+        "document-open",
+        "document-open-folder",
+        "document-open-recent",
+        "document-save",
+        "document-save-as",
+        "document-properties",
+        "document-cleanup",
+        "folder-new",
+        "folder-open-recent",
+        "folder-sync",
+        "folder-stash",
+        "gtk-directory",
+        "stock_new-dir",
+        "archive-insert-directory",
+        "document-new",
+        "document-open",
+        "document-open-folder",
+        "document-open-recent",
+        "document-save",
+        "document-save-as",
+        "document-properties",
+        "folder-new",
+        "folder-open-recent",
+        "folder-sync",
+        "folder-stash",
+        "gtk-directory",
+        "stock_new-dir",
+        "folder-new",
+        "document-open",
+        "document-open-folder",
+        "archive-insert-directory",
+        "gtk-directory",
+        "folder_new",
+        "stock_new-dir",
+        "stock_folder_properties",
+        "stock_file-properties",
+        "document-new",
+        "document-open",
+        "document-open-folder",
+        "document-open-recent",
+        "document-save",
+        "document-save-as",
+        "document-properties",
+        "document-cleanup",
+        "folder-new",
+        "folder-open-recent",
+        "folder-sync",
+        "folder-stash",
+        "stock_new-dir",
+        "stock_folder_properties",
+        "stock_file-properties",
+        "stock_new-dir",
+        "stock_folder_properties",
+        "stock_file-properties"
+    ],
+    "com.android.email": [
+        "mail-message-new",
+        "mail-send",
+        "mail-mark-unread",
+        "gnome-stock-mail-new",
+        "gnome-stock-mail-snd",
+        "mail-forward",
+        "mail-reply-sender",
+        "mail-message-new",
+        "mail-send",
+        "mail-forward",
+        "mail-reply-sender",
+        "mail-reply-all",
+        "mail-mark-read",
+        "mail-mark-unread",
+        "mail-attachment",
+        "mail-queue",
+        "gnome-stock-mail-new",
+        "stock_mail-compose",
+        "stock_mail-send",
+        "mail-message-new",
+        "mail-send",
+        "mail-forward",
+        "mail-reply-sender",
+        "mail-reply-all",
+        "mail-mark-read",
+        "mail-mark-unread",
+        "mail-attachment",
+        "mail-queue",
+        "stock_mail-compose",
+        "stock_mail-send",
+        "mail-send",
+        "gnome-stock-mail-fwd",
+        "gnome-stock-mail-new",
+        "gnome-stock-mail-rpl",
+        "gnome-stock-mail-snd",
+        "stock_mail-compose",
+        "stock_mail-forward",
+        "stock_mail-reply",
+        "stock_mail-reply-to-all",
+        "stock_mail-send",
+        "mail-message-new",
+        "mail-send",
+        "mail-forward",
+        "mail-reply-sender",
+        "mail-reply-all",
+        "mail-mark-read",
+        "mail-mark-unread",
+        "mail-attachment",
+        "mail-queue",
+        "stock_mail-compose",
+        "stock_mail-send",
+        "stock_mail-compose",
+        "stock_mail-forward",
+        "stock_mail-reply",
+        "stock_mail-reply-to-all",
+        "stock_mail-send",
+        "stock_mail-compose",
+        "stock_mail-forward",
+        "stock_mail-reply",
+        "stock_mail-reply-to-all",
+        "stock_mail-send",
+        "mail-message-new",
+        "mail-send",
+        "mail-mark-unread",
+        "gnome-stock-mail-new",
+        "gnome-stock-mail-snd",
+        "mail-forward",
+        "mail-reply-sender",
+        "mail-message-new",
+        "mail-send",
+        "mail-forward",
+        "mail-reply-sender",
+        "mail-reply-all",
+        "mail-mark-read",
+        "mail-mark-unread",
+        "mail-attachment",
+        "mail-queue",
+        "mail-message-new",
+        "mail-send",
+        "mail-forward",
+        "mail-reply-sender",
+        "mail-reply-all",
+        "mail-mark-read",
+        "mail-mark-unread",
+        "mail-attachment",
+        "mail-queue",
+        "stock_mail-compose",
+        "stock_mail-send",
+        "stock_mail-forward",
+        "stock_mail-reply",
+        "mail-message-new",
+        "mail-send",
+        "mail-forward",
+        "mail-reply-sender",
+        "mail-reply-all",
+        "mail-mark-unread",
+        "mail-mark-read",
+        "mail-attachment",
+        "mail-queue",
+        "gnome-stock-mail-new"
+    ],
+    "com.android.gallery3d": [
+        "view-preview",
+        "graphics",
+        "photos-amarok",
+        "photo",
+        "viewimage",
+        "x-shape-image",
+        "gallery",
+        "view-preview",
+        "graphics",
+        "photo",
+        "view-preview",
+        "graphics",
+        "photos-amarok",
+        "photo",
+        "viewimage",
+        "x-shape-image",
+        "gallery"
+    ],
+    "com.android.messaging": [
+        "dialog-messages",
+        "mail-message-new",
+        "im-message-new",
+        "message-new",
+        "callout-shape",
+        "dialog-messages",
+        "mail-message-new",
+        "im-message-new",
+        "message-new",
+        "callout-shape"
+    ],
+    "com.android.music": [
+        "amarok_lyrics",
+        "amarok_playlist",
+        "currenttrack_pause",
+        "currenttrack_play",
+        "media-playback-start",
+        "media-playback-pause",
+        "media-playback-stop",
+        "media-seek-backward",
+        "media-seek-forward",
+        "media-skip-backward",
+        "media-skip-forward",
+        "media-record",
+        "media-playlist-shuffle",
+        "media-playlist-repeat",
+        "stock_media-play",
+        "stock_media-pause",
+        "stock_media-stop",
+        "stock_media-fwd",
+        "stock_media-rew",
+        "stock_media-next",
+        "stock_media-prev",
+        "media-playback-start",
+        "media-playback-pause",
+        "media-playback-stop",
+        "media-seek-backward",
+        "media-seek-forward",
+        "media-skip-backward",
+        "media-skip-forward",
+        "media-record",
+        "media-playlist-shuffle",
+        "media-playlist-repeat",
+        "media-album-cover-manager-amarok",
+        "media-track-queue-amarok",
+        "stock_media-play",
+        "stock_media-pause",
+        "stock_media-stop",
+        "stock_media-fwd",
+        "stock_media-rew",
+        "stock_media-next",
+        "stock_media-prev",
+        "stock_media-fwd",
+        "stock_media-next",
+        "stock_media-pause",
+        "stock_media-play",
+        "stock_media-prev",
+        "stock_media-rec",
+        "stock_media-rew",
+        "stock_media-stop",
+        "stock_media-fwd",
+        "stock_media-next",
+        "stock_media-pause",
+        "stock_media-play",
+        "stock_media-prev",
+        "stock_media-rec",
+        "stock_media-rew",
+        "stock_media-stop",
+        "media-playback-start",
+        "media-playback-pause",
+        "media-playback-stop",
+        "view-media-playlist",
+        "amarok_playlist",
+        "media-album-cover-manager-amarok",
+        "media-playback-start",
+        "media-playback-pause",
+        "media-playback-stop",
+        "media-seek-backward",
+        "media-seek-forward",
+        "media-skip-backward",
+        "media-skip-forward",
+        "media-record",
+        "media-playlist-shuffle",
+        "media-playlist-repeat",
+        "media-album-cover-manager-amarok",
+        "media-track-queue-amarok",
+        "media-playback-start",
+        "media-playback-pause",
+        "media-playback-stop",
+        "media-seek-backward",
+        "media-seek-forward",
+        "media-skip-backward",
+        "media-skip-forward",
+        "media-record",
+        "media-playlist-shuffle",
+        "media-playlist-repeat",
+        "media-album-cover-manager-amarok",
+        "media-track-queue-amarok",
+        "view-media-lyrics",
+        "view-media-visualization",
+        "amarok_playlist",
+        "stock_media-play",
+        "stock_media-pause",
+        "media-playback-start",
+        "media-playback-pause",
+        "media-playback-stop",
+        "media-seek-backward",
+        "media-seek-forward",
+        "media-skip-backward",
+        "media-skip-forward",
+        "media-record",
+        "media-playlist-shuffle",
+        "media-playlist-repeat",
+        "view-media-lyrics",
+        "view-media-visualization",
+        "amarok_playlist",
+        "amarok_lyrics",
+        "media-playback-start",
+        "media-playback-pause",
+        "media-playback-stop",
+        "media-seek-backward",
+        "media-seek-forward",
+        "media-skip-backward",
+        "media-skip-forward",
+        "media-record",
+        "media-playlist-shuffle",
+        "media-playlist-repeat",
+        "stock_media-play",
+        "stock_media-pause",
+        "stock_media-stop",
+        "stock_media-fwd",
+        "stock_media-rew",
+        "stock_media-fwd",
+        "stock_media-next",
+        "stock_media-pause",
+        "stock_media-play",
+        "stock_media-prev",
+        "stock_media-rec",
+        "stock_media-rew",
+        "stock_media-stop",
+        "media-playback-start",
+        "media-playback-pause",
+        "media-playback-stop",
+        "view-media-playlist",
+        "amarok_playlist",
+        "media-album-cover-manager-amarok"
+    ],
+    "com.android.providers.downloads": [
+        "archive-extract",
+        "archive-insert",
+        "archive-remove",
+        "archive",
+        "browser-download",
+        "cloud-download",
+        "edit-download",
+        "extract-archive",
+        "document-import",
+        "document-export",
+        "archive-extract",
+        "archive-insert",
+        "archive-remove",
+        "archive",
+        "browser-download",
+        "cloud-download",
+        "edit-download",
+        "extract-archive",
+        "document-import",
+        "document-export"
+    ],
+    "com.android.server.telecom": [
+        "akonadi-phone-home",
+        "call-start",
+        "call-stop",
+        "call-voicemail",
+        "call-start",
+        "call-stop",
+        "call-voicemail",
+        "akonadi-phone-home",
+        "call-start",
+        "call-stop",
+        "call-voicemail",
+        "akonadi-phone-home",
+        "stock_timezone",
+        "call-start",
+        "call-stop",
+        "call-voicemail",
+        "akonadi-phone-home",
+        "call-start",
+        "call-stop",
+        "call-voicemail",
+        "akonadi-phone-home",
+        "call-start",
+        "call-stop",
+        "call-voicemail",
+        "akonadi-phone-home",
+        "call-start",
+        "call-stop",
+        "call-voicemail",
+        "akonadi-phone-home",
+        "stock_timezone",
+        "stock_timezone",
+        "call-start",
+        "call-stop",
+        "call-voicemail",
+        "call-start",
+        "call-stop",
+        "call-voicemail",
+        "akonadi-phone-home"
+    ],
+    "com.android.settings": [
+        "configure",
+        "albumfolder-properties",
+        "cm_options",
+        "configuration",
+        "configure_kile",
+        "configure_project",
+        "cvc-configure",
+        "dialog-object-properties",
+        "document-properties",
+        "gtk-preferences",
+        "system_settings",
+        "gtk-preferences",
+        "configure",
+        "configure-shortcuts",
+        "configure-toolbars",
+        "org.xfce.settings.manager",
+        "stock_properties",
+        "configure",
+        "albumfolder-properties",
+        "cm_options",
+        "configuration",
+        "configure_kile",
+        "configure_project",
+        "cvc-configure",
+        "dialog-object-properties",
+        "document-properties",
+        "gtk-preferences",
+        "package_settings",
+        "configure",
+        "configure-shortcuts",
+        "configure-toolbars",
+        "gtk-preferences",
+        "package_settings",
+        "preferences-system",
+        "stock_properties",
+        "org.xfce.settings.manager",
+        "system-run",
+        "system-save-session",
+        "configure",
+        "configure-shortcuts",
+        "configure-toolbars",
+        "gtk-preferences",
+        "package_settings",
+        "preferences-system",
+        "stock_properties",
+        "org.xfce.settings.manager",
+        "system-run",
+        "system-save-session",
+        "configure",
+        "configure-shortcuts",
+        "configure-toolbars",
+        "gtk-preferences",
+        "systemsettings",
+        "preferences-system",
+        "system-run",
+        "system-save-session",
+        "albumfolder-properties",
+        "configure",
+        "cvc-configure",
+        "stock_properties",
+        "xfce4-settings",
+        "xfce-system-settings",
+        "configure",
+        "configure",
+        "configure-shortcuts",
+        "configure-toolbars",
+        "gtk-preferences",
+        "package_settings",
+        "settings",
+        "preferences-system",
+        "preferences-desktop-notification-bell",
+        "preferences-desktop-user-password",
+        "stock_properties",
+        "xfce4-settings",
+        "org.xfce.settings.manager",
+        "configure",
+        "configure-shortcuts",
+        "configure-toolbars",
+        "gtk-preferences",
+        "package_settings",
+        "preferences-system",
+        "stock_properties",
+        "org.xfce.settings.manager",
+        "system-run",
+        "system-save-session",
+        "stock_properties",
+        "xfce4-settings",
+        "xfce-system-settings",
+        "configure",
+        "stock_properties",
+        "xfce4-settings",
+        "xfce-system-settings",
+        "configure",
+        "preferences-system",
+        "system-settings",
+        "gnome-control-center",
+        "yast",
+        "synaptic",
+        "preferences-color",
+        "preferences-desktop",
+        "systemsettings",
+        "io.elementary.switchboard",
+        "preferences-system-privacy",
+        "preferences-system-notifications",
+        "preferences-desktop-keyboard",
+        "preferences-desktop-display",
+        "preferences-desktop-sound",
+        "preferences-system-network",
+        "xfce4-settings",
+        "unity-control-center",
+        "garuda-settings-manager",
+        "manjaro-settings-manager",
+        "preferences-desktop-locale",
+        "gnome-alsamixer-icon",
+        "gnome-power-statistics"
+    ],
+    "com.android.vending": [
+        "amarok_cart_add",
+        "amarok_cart_remove",
+        "amarok_cart_view",
+        "gnome-app-install-star",
+        "gnome-software",
+        "discover",
+        "plasmadiscover",
+        "muon-discover",
+        "muondiscover",
+        "flatpak-discover",
+        "org.kde.discover",
+        "org.kde.discovernotifier",
+        "io.github.kolunmi.Bazaar",
+        "octopi",
+        "bazaar",
+        "package_settings",
+        "gnome-app-install-star",
+        "stock_shared-by-me",
+        "stock_shared-to-me",
+        "package_settings",
+        "gnome-app-install-star",
+        "amarok_cart_view",
+        "amarok_cart_add",
+        "package_settings",
+        "gnome-app-install-star",
+        "amarok_cart_view",
+        "amarok_cart_add",
+        "package_settings",
+        "gnome-software",
+        "discover",
+        "octopi",
+        "bazaar",
+        "package_settings",
+        "gnome-app-install-star",
+        "amarok_cart_view",
+        "amarok_cart_add",
+        "package_settings",
+        "stock_shared-by-me",
+        "stock_shared-to-me",
+        "package_settings",
+        "gnome-app-install-star",
+        "package_settings",
+        "amarok_cart_view",
+        "amarok_cart_add",
+        "gnome-app-install-star",
+        "amarok_cart_view",
+        "amarok_cart_add",
+        "package_settings",
+        "stock_shared-by-me",
+        "stock_shared-to-me",
+        "package_settings",
+        "gnome-app-install-star",
+        "amarok_cart_view",
+        "amarok_cart_add",
+        "package_settings",
+        "system-software-install",
+        "software-center",
+        "gnome-software",
+        "discover",
+        "synaptic",
+        "bauh",
+        "pamac",
+        "octopi",
+        "muon",
+        "appstore",
+        "deepin-appstore",
+        "mintinstall"
+    ],
+    "com.apple.android.music": [
+        "elisa",
+        "org.kde.elisa",
+        "clementine",
+        "rhythmbox",
+        "audacious",
+        "lollypop"
+    ],
+    "com.brave.browser": [
+        "brave",
+        "brave-browser",
+        "brave"
+    ],
+    "com.discord": [
+        "discord",
+        "discord-canary",
+        "discord-ptb",
+        "vesktop",
+        "webcord",
+        "armcord",
+        "lightcord",
+        "discord",
+        "webcord",
+        "armcord",
+        "vesktop",
+        "ripcord"
+    ],
+    "com.github.android": [
+        "github-desktop",
+        "io.github.shiftey.Desktop",
+        "gitg",
+        "gitkraken",
+        "github-cli",
+        "tig",
+        "github-desktop",
+        "gitg",
+        "gitkraken",
+        "smartgit",
+        "rabbitvcs"
+    ],
+    "com.github.chocobo1.qbittorrent": [
+        "qbittorrent",
+        "org.qbittorrent.qBittorrent",
+        "transmission-gtk",
+        "transmission-qt",
+        "deluge",
+        "ktorrent"
+    ],
+    "com.google.android.apps.docs": [
+        "document-new",
+        "document-open",
+        "document-save",
+        "document-save-as",
+        "document-edit",
+        "document-print",
+        "document-share",
+        "document-edit",
+        "document-print",
+        "document-share",
+        "document-import",
+        "document-export",
+        "stock_save",
+        "stock_print",
+        "document-import",
+        "albumfolder-importimages",
+        "document-new",
+        "document-open",
+        "document-save",
+        "document-save-as",
+        "document-edit",
+        "document-print",
+        "document-share",
+        "stock_new-text",
+        "stock_save",
+        "stock_save-as",
+        "stock_print",
+        "stock_print-preview",
+        "stock_new-text",
+        "stock_save",
+        "stock_save-as",
+        "stock_print",
+        "stock_print-preview",
+        "document-edit",
+        "document-print",
+        "document-share",
+        "document-import",
+        "document-export",
+        "stock_save",
+        "stock_print",
+        "stock_print-preview",
+        "document-new",
+        "document-save",
+        "document-save-as",
+        "document-print",
+        "document-properties",
+        "document-edit",
+        "document-import",
+        "document-export",
+        "stock_save",
+        "stock_print",
+        "document-edit",
+        "document-print",
+        "document-share",
+        "document-import",
+        "document-export",
+        "stock_save",
+        "stock_print",
+        "document-edit",
+        "document-print",
+        "document-share",
+        "document-import",
+        "document-export",
+        "stock_save",
+        "stock_print",
+        "document-edit",
+        "document-print",
+        "document-share",
+        "document-import",
+        "document-export",
+        "stock_save",
+        "stock_print",
+        "stock_new-text",
+        "stock_save",
+        "stock_save-as",
+        "stock_print",
+        "stock_print-preview",
+        "accessories-document-viewer",
+        "evince",
+        "okular",
+        "qpdfview",
+        "atril",
+        "xpdf",
+        "deepin-reader",
+        "foxit-reader",
+        "mupdf",
+        "zathura",
+        "qtassistant",
+        "chmsee-icon",
+        "devhelp",
+        "zeal",
+        "khelpcenter"
+    ],
+    "com.google.android.apps.docs.editors.docs": [
+        "libreoffice-writer",
+        "libreoffice"
+    ],
+    "com.google.android.apps.docs.editors.sheets": [
+        "libreoffice-calc"
+    ],
+    "com.google.android.apps.docs.editors.slides": [
+        "libreoffice-impress"
+    ],
+    "com.google.android.apps.gallery": [
+        "org.kde.gwenview",
+        "gwenview",
+        "shotwell",
+        "gthumb"
+    ],
+    "com.google.android.apps.nbu.files": [
+        "system-file-manager",
+        "org.kde.dolphin",
+        "dolphin",
+        "org.gnome.Nautilus",
+        "nautilus",
+        "thunar",
+        "nemo",
+        "pcmanfm",
+        "pcmanfm-qt",
+        "krusader",
+        "doublecmd",
+        "org.mate.Caja",
+        "caja",
+        "spacefm",
+        "ranger",
+        "lf"
+    ],
+    "com.google.android.apps.photos": [
+        "org.kde.gwenview",
+        "gwenview",
+        "shotwell",
+        "gthumb",
+        "photos",
+        "im6-q16",
+        "display-im6.q16",
+        "darktable",
+        "rawtherapee",
+        "accessories-image-viewer",
+        "eog",
+        "gwenview",
+        "shotwell",
+        "ristretto",
+        "nomacs",
+        "viewnior",
+        "deepin-image-viewer",
+        "kuickshow",
+        "gthumb",
+        "pix",
+        "photoflare",
+        "mirage",
+        "com.deepin.ImageViewer"
+    ],
+    "com.google.android.calculator": [
+        "org.kde.kcalc",
+        "kcalc",
+        "org.gnome.Calculator",
+        "gnome-calculator",
+        "qalculate",
+        "qalculate-gtk",
+        "speedcrunch",
+        "galculator",
+        "calculator",
+        "calc",
+        "kcalc",
+        "gnome-calculator",
+        "galculator",
+        "accessories-calculator",
+        "deepin-calculator",
+        "abakus",
+        "speedcrunch",
+        "com.deepin.Calculator"
+    ],
+    "com.google.android.calendar": [
+        "org.gnome.Calendar",
+        "gnome-calendar",
+        "korganizer",
+        "office-calendar",
+        "korganizer",
+        "gnome-calendar",
+        "calendar",
+        "evolution-calendar",
+        "deepin-calendar",
+        "orage",
+        "maya-calendar"
+    ],
+    "com.google.android.contacts": [
+        "org.gnome.Contacts",
+        "kaddressbook",
+        "org.kde.kaddressbook",
+        "addressbook",
+        "gnome-contacts",
+        "kaddressbook",
+        "contacts",
+        "maui-contacts",
+        "deepin-contacts",
+        "evolution-contacts"
+    ],
+    "com.google.android.deskclock": [
+        "preferences-system-time",
+        "org.kde.kclock",
+        "gnome-clocks",
+        "alarm-clock",
+        "gnome-clocks",
+        "ktimer",
+        "kclock",
+        "alarm-clock",
+        "preferences-system-time",
+        "cairo-clock",
+        "orage_globaltime"
+    ],
+    "com.google.android.dialer": [
+        "phone",
+        "org.kde.telephony"
+    ],
+    "com.google.android.gm": [
+        "thunderbird",
+        "org.mozilla.Thunderbird",
+        "evolution",
+        "geary",
+        "mailspring",
+        "kmail",
+        "claws-mail",
+        "gmail",
+        "evolution",
+        "kmail",
+        "thunderbird",
+        "geary",
+        "claws-mail",
+        "sylpheed",
+        "mailspring",
+        "trojita",
+        "balsa"
+    ],
+    "com.google.android.keep": [
+        "knotes",
+        "xpad",
+        "org.gnome.Notes",
+        "org.kde.knotes",
+        "org.gnome.gnote",
+        "accessories-notes",
+        "xpad",
+        "basket",
+        "gnote",
+        "tomboy",
+        "sticky-notes",
+        "indicator-stickynotes",
+        "knote",
+        "xfce4-notes"
+    ],
+    "com.google.android.youtube": [
+        "youtube",
+        "freetube",
+        "freetube-bin",
+        "ytmdesktop",
+        "ytmdesktop-bin",
+        "youtube",
+        "plasmatube",
+        "freetube",
+        "smtube"
+    ],
+    "com.google.android.youtube.music": [
+        "spotify",
+        "rhythmbox",
+        "clementine",
+        "audacious"
+    ],
+    "com.HoYoverse.ZenlessZoneZero": [
+        "sleepy-launcher",
+        "sleepy-launcher-zzz",
+        "zenless-zone-zero",
+        "zzz"
+    ],
+    "com.microsoft.emmx": [
+        "microsoft-edge",
+        "microsoft-edge-dev"
+    ],
+    "com.microsoft.office.excel": [
+        "libreoffice-calc"
+    ],
+    "com.microsoft.office.officehub": [
+        "libreoffice",
+        "docear",
+        "libreoffice-main",
+        "openoffice",
+        "wps-office",
+        "freeoffice",
+        "onlyoffice",
+        "abiword",
+        "gnumeric"
+    ],
+    "com.microsoft.office.onenote": [
+        "xpad",
+        "knotes",
+        "ms-onenote",
+        "onenote"
+    ],
+    "com.microsoft.office.outlook": [
+        "thunderbird",
+        "geary",
+        "evolution",
+        "ms-outlook",
+        "web-outlook",
+        "evolution-mail"
+    ],
+    "com.microsoft.office.powerpoint": [
+        "libreoffice-impress"
+    ],
+    "com.microsoft.office.word": [
+        "libreoffice-writer"
+    ],
+    "com.microsoft.teams": [
+        "teams",
+        "skype",
+        "discord",
+        "zoom",
+        "teams-for-linux",
+        "com.microsoft.Teams"
+    ],
+    "com.miHoYo.GenshinImpact": [
+        "anime-games-launcher",
+        "an-anime-game-launcher",
+        "anime-game-launcher",
+        "genshin-impact",
+        "genshinimpact"
+    ],
+    "com.nvidia.geforcenow": [
+        "geforcenow",
+        "games",
+        "cachyos-gaming",
+        "gamemode",
+        "nvidia",
+        "nvidia-settings",
+        "green-with-envy"
+    ],
+    "com.obsproject.studio": [
+        "obs",
+        "obs-studio"
+    ],
+    "com.obsproject.Studio": [
+        "obs",
+        "obs-studio",
+        "com.obsproject.Studio"
+    ],
+    "com.opera.browser": [
+        "opera"
+    ],
+    "com.skype.raider": [
+        "skype",
+        "skype",
+        "skypeforlinux"
+    ],
+    "com.Slack": [
+        "slack",
+        "slack-desktop",
+        "skype",
+        "teams",
+        "zoom",
+        "discord"
+    ],
+    "com.spotify.music": [
+        "spotify",
+        "spotify-client",
+        "ncspot",
+        "spicetify",
+        "spotify-client",
+        "spotify"
+    ],
+    "com.teamviewer.host.market": [
+        "teamviewer",
+        "TeamViewer"
+    ],
+    "com.termux": [
+        "utilities-terminal",
+        "org.kde.konsole",
+        "konsole",
+        "gnome-terminal",
+        "org.gnome.Terminal",
+        "kitty",
+        "alacritty",
+        "Alacritty",
+        "wezterm",
+        "foot",
+        "terminator",
+        "tilix",
+        "xfce4-terminal",
+        "guake",
+        "yakuake",
+        "cool-retro-term",
+        "blackbox-terminal",
+        "com.raggesilver.BlackBox",
+        "hyper",
+        "utilities-terminal",
+        "org.kde.konsole",
+        "konsole",
+        "gnome-terminal",
+        "org.gnome.Terminal",
+        "kitty",
+        "alacritty",
+        "wezterm",
+        "foot",
+        "terminator",
+        "tilix",
+        "xfce4-terminal",
+        "guake",
+        "yakuake",
+        "cool-retro-term",
+        "blackbox-terminal",
+        "com.raggesilver.BlackBox",
+        "hyper",
+        "alacritty",
+        "kitty",
+        "konsole",
+        "gnome-terminal",
+        "terminal",
+        "bash",
+        "zsh",
+        "fish",
+        "guake",
+        "yakuake",
+        "cool-retro-term",
+        "blackbox-terminal",
+        "hyper",
+        "roxterm",
+        "terminator",
+        "tilix",
+        "xfce4-terminal",
+        "lxterminal",
+        "utilities-terminal",
+        "gnome-console",
+        "qterminal",
+        "aterm",
+        "foot",
+        "urxvt",
+        "xterm",
+        "maui-station",
+        "com.raggesilver.BlackBox",
+        "com.gexperts.Terminix",
+        "com.vicr123.theterminal",
+        "org.gnome.Console",
+        "org.gnome.Terminal",
+        "org.kde.konsole"
+    ],
+    "com.utorrent.client": [
+        "transmission",
+        "transmission-qt",
+        "transmission-gtk",
+        "deluge"
+    ],
+    "com.valvesoftware.android.steam.community": [
+        "steam",
+        "steam-launcher",
+        "lutris",
+        "heroic",
+        "gamehub",
+        "protonplus",
+        "10B4_steam.0",
+        "adw-steam-gtk",
+        "steam",
+        "steam-icon",
+        "steam-launcher",
+        "com.valvesoftware.Steam",
+        "steam-native",
+        "steampowered"
+    ],
+    "com.valvesoftware.steam": [
+        "steam",
+        "steam-native",
+        "steam-runtime",
+        "com.valvesoftware.Steam"
+    ],
+    "com.visualstudio.code": [
+        "code",
+        "visual-studio-code",
+        "vscode",
+        "vscodium",
+        "code-oss",
+        "code-insiders"
+    ],
+    "com.vivaldi.browser": [
+        "vivaldi",
+        "vivaldi-stable"
+    ],
+    "com.whatsapp": [
+        "whatsapp",
+        "whatsapp-desktop",
+        "whatsapp",
+        "web-whatsapp",
+        "whatsapp-desktop",
+        "whatsdesk"
+    ],
+    "communication.apps": [
+        "whatsapp-for-linux",
+        "signal-desktop",
+        "element-desktop",
+        "slack",
+        "zoom",
+        "teams",
+        "skype"
+    ],
+    "container.tools": [
+        "docker-desktop",
+        "podman-desktop",
+        "lazydocker",
+        "kubernetes"
+    ],
+    "control.center": [
+        "btop",
+        "htop",
+        "glances",
+        "mission-center",
+        "io.missioncenter.MissionCenter",
+        "plasma-systemmonitor"
+    ],
+    "disk.utility": [
+        "org.gnome.DiskUtility",
+        "gnome-disks",
+        "org.kde.partitionmanager",
+        "partitionmanager",
+        "gparted",
+        "baobab",
+        "filelight"
+    ],
+    "download.manager": [
+        "uget",
+        "persepolis",
+        "xdman",
+        "motrix"
+    ],
+    "editors.text": [
+        "kate",
+        "org.kde.kate",
+        "gedit",
+        "org.gnome.gedit",
+        "gnome-text-editor",
+        "org.gnome.TextEditor",
+        "mousepad",
+        "xed",
+        "sublime-text",
+        "subl",
+        "notepadqq",
+        "micro"
+    ],
+    "file.search": [
+        "fsearch",
+        "org.gnome.Search",
+        "kfind",
+        "catfish",
+        "recoll"
+    ],
+    "game.launcher": [
+        "steam",
+        "lutris",
+        "heroic",
+        "gamehub",
+        "bottles",
+        "itch",
+        "itch-setup",
+        "minigalaxy",
+        "prismlauncher",
+        "polyMC",
+        "minecraft-launcher"
+    ],
+    "games.launcher": [
+        "lutris",
+        "heroic",
+        "bottles",
+        "com.usebottles.bottles",
+        "cartridges",
+        "retroarch"
+    ],
+    "graphic.design": [
+        "gimp",
+        "inkscape",
+        "blender",
+        "krita",
+        "org.kde.krita",
+        "darktable",
+        "digikam"
+    ],
+    "im.vector.app": [
+        "element-desktop"
+    ],
+    "image.viewer": [
+        "org.kde.gwenview",
+        "gwenview",
+        "org.gnome.eog",
+        "eog",
+        "loupe",
+        "gthumb",
+        "shotwell",
+        "nomacs",
+        "feh",
+        "imv",
+        "ristretto"
+    ],
+    "launcher.menu": [
+        "rofi",
+        "wofi",
+        "bemenu",
+        "fuzzel",
+        "ulauncher",
+        "plank",
+        "latte-dock",
+        "waybar"
+    ],
+    "messaging.extra": [
+        "slack",
+        "skype",
+        "teams",
+        "zoom",
+        "ferdium",
+        "franz",
+        "signal-desktop"
+    ],
+    "music.player": [
+        "org.kde.elisa",
+        "elisa",
+        "rhythmbox",
+        "org.gnome.Rhythmbox3",
+        "clementine",
+        "strawberry",
+        "audacious",
+        "lollypop",
+        "deadbeef",
+        "mpd",
+        "ncmpcpp"
+    ],
+    "network.manager": [
+        "nm-connection-editor",
+        "knetworkmanager",
+        "iwgtk",
+        "networkmanager-dmenu",
+        "wpa_gui"
+    ],
+    "notes.app": [
+        "org.gnome.Notes",
+        "gnote",
+        "knotes",
+        "xpad",
+        "obsidian",
+        "logseq",
+        "joplin"
+    ],
+    "office.suite": [
+        "libreoffice-startcenter",
+        "libreoffice-writer",
+        "libreoffice-calc",
+        "libreoffice-impress",
+        "wps-office-prometheus",
+        "onlyoffice-desktopeditors"
+    ],
+    "org.deluge.Deluge": [
+        "transmission",
+        "qbittorrent"
+    ],
+    "org.gimp.gimp": [
+        "gimp",
+        "krita",
+        "pinta",
+        "org.pinta.Pinta",
+        "inkscape",
+        "blender",
+        "mypaint",
+        "drawing"
+    ],
+    "org.gnome.netsurf": [
+        "netsurf"
+    ],
+    "org.kde.kontact": [
+        "kmail",
+        "evolution"
+    ],
+    "org.mozilla.firefox": [
+        "firefox",
+        "firefox-bin",
+        "librewolf",
+        "floorp",
+        "waterfox",
+        "tor-browser",
+        "torbrowser-launcher",
+        "librewolf",
+        "firefox",
+        "firefox-bin",
+        "firefox-nightly",
+        "waterfox",
+        "iceweasel",
+        "floorp",
+        "tor-browser",
+        "mullvad-browser"
+    ],
+    "org.qbittorrent.qBittorrent": [
+        "qbittorrent",
+        "qbittorrent-qt5",
+        "qbittorrent-nox"
+    ],
+    "org.scummvm.scummvm": [
+        "scummvm"
+    ],
+    "org.telegram.messenger": [
+        "telegram-desktop",
+        "org.telegram.desktop",
+        "telegram",
+        "telegram-desktop",
+        "app.drey.PaperPlane",
+        "kotatogram"
+    ],
+    "org.thoughtcrime.securesms": [
+        "signal-desktop",
+        "signal-desktop",
+        "axolotl"
+    ],
+    "org.videolan.vlc": [
+        "vlc",
+        "org.kde.haruna",
+        "haruna",
+        "mpv",
+        "totem",
+        "celluloid",
+        "smplayer",
+        "mplayer",
+        "dragonplayer",
+        "vlc",
+        "smplayer",
+        "totem",
+        "parole",
+        "mpv",
+        "dragonplayer",
+        "kmplayer",
+        "kaffeine",
+        "celluloid",
+        "gnome-mplayer",
+        "deepin-media-player",
+        "xine",
+        "haruna",
+        "kplayer",
+        "xv"
+    ],
+    "paint.app": [
+        "pinta",
+        "org.pinta.Pinta",
+        "mypaint",
+        "kolourpaint",
+        "org.kde.kolourpaint",
+        "mtpaint",
+        "drawing"
+    ],
+    "resource_folder": [
+        "folder",
+        "inode-directory",
+        "user-home"
+    ],
+    "resource_folder_documents": [
+        "folder-documents",
+        "folder-text"
+    ],
+    "resource_folder_downloads": [
+        "folder-download",
+        "folder-downloads"
+    ],
+    "resource_folder_music": [
+        "folder-music",
+        "folder-sound"
+    ],
+    "resource_folder_pictures": [
+        "folder-pictures",
+        "folder-image"
+    ],
+    "resource_folder_video": [
+        "folder-videos",
+        "folder-video"
+    ],
+    "ryujinx": [
+        "ryujinx",
+        "Ryujinx",
+        "org.ryujinx.Ryujinx"
+    ],
+    "screenshot.tool": [
+        "flameshot",
+        "org.flameshot.Flameshot",
+        "spectacle",
+        "org.kde.spectacle",
+        "gnome-screenshot",
+        "grim",
+        "grimshot",
+        "hyprshot",
+        "ksnip"
+    ],
+    "system.monitor": [
+        "plasma-systemmonitor",
+        "org.kde.plasma-systemmonitor",
+        "org.gnome.SystemMonitor",
+        "gnome-system-monitor",
+        "mission-center",
+        "io.missioncenter.MissionCenter",
+        "btop",
+        "htop",
+        "bashtop",
+        "bpytop",
+        "glances"
+    ],
+    "system.settings": [
+        "org.kde.systemsettings",
+        "system-settings",
+        "preferences-system",
+        "org.gnome.Settings",
+        "gnome-control-center",
+        "lxqt-config",
+        "mate-control-center",
+        "xfce4-settings",
+        "cinnamon-settings"
+    ],
+    "system.update": [
+        "arch-update",
+        "archlinux-tweak-tool",
+        "pamac-manager",
+        "octopi",
+        "paru",
+        "yay",
+        "gnome-software"
+    ],
+    "task.manager": [
+        "btop",
+        "htop",
+        "glances",
+        "mission-center",
+        "io.missioncenter.MissionCenter",
+        "plasma-systemmonitor"
+    ],
+    "terminal.emulator": [
+        "konsole",
+        "org.kde.konsole",
+        "gnome-terminal",
+        "org.gnome.Terminal",
+        "kitty",
+        "alacritty",
+        "foot",
+        "terminator",
+        "xfce4-terminal",
+        "tilix",
+        "wezterm",
+        "rio",
+        "tilda",
+        "guake"
+    ],
+    "text.viewer": [
+        "org.kde.okular",
+        "okular",
+        "evince",
+        "zathura",
+        "atril",
+        "xreader"
+    ],
+    "torrent.client": [
+        "qbittorrent",
+        "transmission",
+        "transmission-gtk",
+        "transmission-qt",
+        "deluge",
+        "ktorrent",
+        "flood"
+    ],
+    "us.zoom.videomeetings": [
+        "zoom",
+        "skype",
+        "teams",
+        "discord"
+    ],
+    "utility.tools": [
+        "org.kde.kfind",
+        "kfind",
+        "gnome-search-tool",
+        "org.gnome.Characters",
+        "org.kde.kcharselect",
+        "kcharselect",
+        "bleachbit",
+        "timeshift",
+        "variety",
+        "flameshot",
+        "spectacle",
+        "gnome-screenshot",
+        "grim",
+        "slurp",
+        "wl-clipboard"
+    ],
+    "video.player": [
+        "vlc",
+        "mpv",
+        "org.gnome.Totem",
+        "totem",
+        "celluloid",
+        "smplayer",
+        "haruna",
+        "dragonplayer"
+    ],
+    "virtualization": [
+        "virt-manager",
+        "org.gnome.Boxes",
+        "gnome-boxes",
+        "virtualbox",
+        "vmware-workstation"
+    ],
+    "vscode": [
+        "code",
+        "code-oss",
+        "vscodium",
+        "org.kde.kate",
+        "micro",
+        "nano",
+        "vim",
+        "neovim",
+        "emacs",
+        "intellij-idea",
+        "pycharm"
+    ],
+    "wine.manager": [
+        "bottles",
+        "org.usebottles.bottles",
+        "playonlinux",
+        "winetricks",
+        "q4wine"
+    ],
+    "yuzu": [
+        "yuzu",
+        "org.yuzu_emu.yuzu",
+        "suyu",
+        "ryubing"
+    ],
+    "com.play0ad.zeroad": [
+        "0ad",
+        "com.play0ad.zeroad"
+    ],
+    "org.winehq.wine": [
+        "1CD8_rundll32.0",
+        "2905_wscript.0",
+        "5742_rundll32.0",
+        "7765_winebrowser",
+        "bottles_wine",
+        "wine",
+        "q4wine",
+        "wine-winecfg",
+        "wine-uninstaller",
+        "winetricks",
+        "wine-winefile",
+        "crossover",
+        "playonlinux",
+        "lutris"
+    ],
+    "com.rhmsoft.edit": [
+        "1E64_notepad.0",
+        "2EF4_wordpad.0",
+        "accessories-text-editor",
+        "accessories_text_editor",
+        "gedit",
+        "kate",
+        "kwrite",
+        "leafpad",
+        "mousepad",
+        "notepad",
+        "pluma",
+        "text-editor",
+        "bluefish-icon",
+        "geany",
+        "juffed",
+        "l3afpad",
+        "Sci48M",
+        "xed"
+    ],
+    "com.onepassword.android": [
+        "1password",
+        "com.onepassword.OnePassword",
+        "appimagekit-1password"
+    ],
+    "com.gabrielecirulli.app2048": [
+        "2048",
+        "2048-qt",
+        "gnome-2048"
+    ],
+    "net.sourceforge.vmpk": [
+        "44F2_SynthesiaConfig.0",
+        "5B46_Synthesia.0",
+        "vmpk",
+        "activity-simplepiano",
+        "linthesia"
+    ],
+    "com.dv.adm": [
+        "4kvideodownloader",
+        "youtube-dl",
+        "clipgrab",
+        "uget-icon",
+        "freedownloadmanager",
+        "jdownloader",
+        "persepolis",
+        "motrix",
+        "video-downloader"
+    ],
+    "com.sublimetext.mobile": [
+        "63EE_sublime_text.0",
+        "sublime-text",
+        "com.sublimehq.SublimeText"
+    ],
+    "ru.zdevs.zarchiver": [
+        "7zip",
+        "ark",
+        "file-roller",
+        "engrampa",
+        "xarchiver",
+        "accessories-archiver",
+        "archive-manager",
+        "deepin-compressor"
+    ],
+    "com.google.android.GoogleCamera": [
+        "accessories-camera",
+        "camera",
+        "cheese",
+        "kamoso",
+        "webcam",
+        "gnome-camera",
+        "deepin-camera",
+        "guvcview",
+        "snapshot"
+    ],
+    "com.google.android.apps.translate": [
+        "accessories-dictionary",
+        "dictionary",
+        "goldendict",
+        "artha",
+        "translator",
+        "gnome-dictionary",
+        "dialect",
+        "google-translate"
+    ],
+    "com.google.android.apps.books": [
+        "gnome-books",
+        "calibre",
+        "accessories-ebook-reader",
+        "foliate",
+        "koreader",
+        "fbreader"
+    ],
+    "org.catrobat.paintroid": [
+        "gnome-paint",
+        "kolourpaint",
+        "mtpaint",
+        "azpainter",
+        "tuxpaint",
+        "pinta",
+        "mypaint",
+        "drawing",
+        "gpaint"
+    ],
+    "com.android.systemui.screenshot": [
+        "accessories-screenshot",
+        "gnome-screenshot",
+        "ksnip",
+        "spectacle",
+        "flameshot",
+        "shutter",
+        "deepin-screenshot",
+        "xfce4-screenshooter"
+    ],
+    "org.turtlico.app": [
+        "turtlico",
+        "kturtle"
+    ],
+    "com.adobe.flashplayer": [
+        "flash",
+        "adobe-flashplayer",
+        "com.adobe.Flash-Player-Projector"
+    ],
+    "com.aegisub.mobile": [
+        "aegisub",
+        "org.aegisub.Aegisub"
+    ],
+    "org.airvpn.eddie": [
+        "airvpn",
+        "AirVPN"
+    ],
+    "com.google.android.play.games": [
+        "kpat",
+        "kpatience",
+        "gnome-mines",
+        "gnome-sudoku",
+        "gnome-chess",
+        "gnome-mahjongg",
+        "aisleriot",
+        "applications-games",
+        "gnome-games",
+        "lutris",
+        "cartridges",
+        "gamehub",
+        "minetest"
+    ],
+    "com.android.providers.contacts": [
+        "akonadi"
+    ],
+    "com.google.android.apps.magazines": [
+        "internet-news-reader",
+        "akregator",
+        "feedreader",
+        "liferea",
+        "newsflash",
+        "rssguard",
+        "fluent-reader"
+    ],
+    "com.android.launcher": [
+        "menu-editor",
+        "alacarte",
+        "menulibre",
+        "kmenuedit",
+        "appgrid",
+        "application-default-icon",
+        "cairo-dock",
+        "plank",
+        "docky",
+        "xfce4-panel",
+        "latte-dock",
+        "desktop",
+        "show-desktop"
+    ],
+    "com.google.android.googlequicksearchbox": [
+        "albert",
+        "preferences-system-search",
+        "synapse",
+        "krunner",
+        "cerebro",
+        "ulauncher",
+        "catfish",
+        "fsearch"
+    ],
+    "com.alienarena.game": [
+        "alienarena"
+    ],
+    "com.amazon.mShop.android.shopping": [
+        "amazon-store",
+        "amazon",
+        "amazonclouddrive"
+    ],
+    "com.google.android.music": [
+        "amarok",
+        "rhythmbox",
+        "clementine",
+        "elisa",
+        "gnome-music",
+        "audacious",
+        "banshee",
+        "deepin-music-player",
+        "lollypop",
+        "cantata",
+        "strawberry",
+        "guayadeque",
+        "qmmp",
+        "sayonara",
+        "deadbeef",
+        "playmymusic",
+        "goodvibes"
+    ],
+    "com.innersloth.spacemafia": [
+        "among-us"
+    ],
+    "com.google.android.inputmethod.latin": [
+        "preferences-desktop-emoticons",
+        "ibus",
+        "fcitx",
+        "uim",
+        "accessories-character-map",
+        "kcharselect"
+    ],
+    "com.frostwire.android": [
+        "amule",
+        "transmission",
+        "deluge",
+        "ktorrent",
+        "qbittorrent",
+        "fragments",
+        "nicotine",
+        "tixati"
+    ],
+    "com.anbox.manager": [
+        "anbox"
+    ],
+    "com.google.android.apps.n2.files": [
+        "android-file-transfer",
+        "file-manager",
+        "nautilus",
+        "dolphin",
+        "thunar",
+        "nemo",
+        "caja",
+        "pcmanfm",
+        "krusader",
+        "system-file-manager",
+        "deepin-file-manager",
+        "io.elementary.files",
+        "spacefm",
+        "doublecmd",
+        "athena",
+        "transporter",
+        "bulky"
+    ],
+    "com.google.android.tools.installer": [
+        "android-studio",
+        "android-studio-beta",
+        "com.google.AndroidStudio"
+    ],
+    "com.aide.ui": [
+        "anjuta",
+        "builder",
+        "glade",
+        "qtcreator",
+        "gnome-builder",
+        "kdevelop",
+        "codeblocks",
+        "geany",
+        "aptana",
+        "eclipse"
+    ],
+    "com.ichi2.anki": [
+        "anki",
+        "net.ankiweb.Anki"
+    ],
+    "com.mysql.admin": [
+        "antaressql",
+        "dbeaver",
+        "mysql-workbench",
+        "datagrip",
+        "sequeler"
+    ],
+    "com.anydesk.anydeskandroid": [
+        "anydesk",
+        "Anydesk",
+        "com.anydesk.Anydesk"
+    ],
+    "io.anytype.app": [
+        "anytype"
+    ],
+    "com.anythingllm.android": [
+        "anythingllm"
+    ],
+    "org.netbeans.mobile": [
+        "netbeans",
+        "apache-netbeans"
+    ],
+    "com.valvesoftware.aperture": [
+        "aperture-desk-job"
+    ],
+    "com.google.android.apps.restore": [
+        "pika-backup",
+        "deja-dup",
+        "timeshift",
+        "luckybackup",
+        "backintime",
+        "kup"
+    ],
+    "com.futo.grayjay": [
+        "grayjay",
+        "app.grayjay.Grayjay"
+    ],
+    "io.appflowy.appflowy": [
+        "appflowy"
+    ],
+    "com.soundcloud.android": [
+        "auryo",
+        "soundcloud"
+    ],
+    "com.etchdroid.etchdroid": [
+        "etcher",
+        "balena-etcher",
+        "usb-creator",
+        "mintstick",
+        "imagewriter",
+        "gnome-multi-writer",
+        "unetbootin",
+        "ventoy",
+        "multibootusb"
+    ],
+    "io.beekeeperstudio": [
+        "beekeeper-studio"
+    ],
+    "com.x8bit.bitwarden": [
+        "bitwarden",
+        "com.bitwarden.Bitwarden"
+    ],
+    "com.aide.web": [
+        "brackets",
+        "atom",
+        "vscode",
+        "visual-studio-code"
+    ],
+    "com.facebook.orca": [
+        "fbmessenger",
+        "caprine",
+        "messengerfordesktop"
+    ],
+    "com.ultimaker.cura": [
+        "cura-icon",
+        "com.ultimaker.cura"
+    ],
+    "com.jgraph.drawio.android": [
+        "draw.io",
+        "draw-io"
+    ],
+    "me.hyliu.fluentreader": [
+        "fluent-reader"
+    ],
+    "com.meetfranz.franz": [
+        "franz",
+        "com.meetfranz.Franz"
+    ],
+    "io.designer.gravit": [
+        "gravit-designer"
+    ],
+    "com.genymobile.scrcpy": [
+        "guiscrcpy",
+        "scrcpy",
+        "qtscrcpy"
+    ],
+    "com.heroicgameslauncher.hgl": [
+        "heroic",
+        "com.heroicgameslauncher.hgl"
+    ],
+    "net.cozic.joplin": [
+        "joplin",
+        "joplin-desktop"
+    ],
+    "net.agalwood.motrix": [
+        "motrix"
+    ],
+    "com.musescore.player": [
+        "musescore",
+        "mscore"
+    ],
+    "md.obsidian": [
+        "obsidian",
+        "obsidian-app",
+        "com.obsidian.Obsidian"
+    ],
+    "com.openrgb.android": [
+        "openrgb"
+    ],
+    "com.font.installer": [
+        "fontforge",
+        "font-manager"
+    ],
+    "org.shadowice.flocke.keepassxc": [
+        "keepassxc",
+        "keepassx",
+        "keepass"
+    ],
+    "com.olive.editor": [
+        "olive-editor"
+    ],
+    "com.pcloud.pcloud": [
+        "pcloud"
+    ],
+    "net.pcsx2": [
+        "PCSX2",
+        "pcsx2"
+    ],
+    "com.rambox.app": [
+        "rambox"
+    ],
+    "ca.pkay.rcloneexplorer": [
+        "rclone-browser"
+    ],
+    "com.retroarch": [
+        "retroarch",
+        "libretro"
+    ],
+    "com.cleanmaster.mguard": [
+        "stacer",
+        "bleachbit",
+        "sweeper",
+        "ubuntu-cleaner",
+        "gcleaner"
+    ],
+    "org.lethargik.supertux2": [
+        "supertux",
+        "supertux2"
+    ],
+    "org.synfig.synfigstudio": [
+        "synfig"
+    ],
+    "de.tutao.tutanota": [
+        "tutanota",
+        "tutanota-desktop"
+    ],
+    "com.unity3d.player": [
+        "unityhub"
+    ],
+    "com.tencent.mm": [
+        "wechat",
+        "wewechat",
+        "electronic-wechat"
+    ],
+    "com.arjuntalwar.youtubedownloader": [
+        "youtube-dl",
+        "youtube-dlg",
+        "gydl"
+    ],
+    "com.google.android.apps.youtube.music": [
+        "youtube-music",
+        "youtube-music-desktop-app",
+        "musicpod"
+    ],
+    "org.yuzu.yuzu_emu": [
+        "yuzu"
+    ],
+    "com.android.packageinstaller": [
+        "AppImageLauncher",
+        "gdebi",
+        "qapt",
+        "gnome-package-kit"
+    ],
+    "com.google.android.apps.pdfviewer": [
+        "qpdfview",
+        "pdfmod",
+        "pdfsam",
+        "pdfarranger",
+        "pdf-mix-tool"
+    ],
+    "com.android.wallpaper.livepicker": [
+        "plasmagik",
+        "variety",
+        "wallpaper",
+        "nitrogen"
+    ],
+    "com.cyberlink.powerdirector": [
+        "avidemux",
+        "kdenlive",
+        "openshot",
+        "pitivi",
+        "shotcut",
+        "flowblade",
+        "cinelerra",
+        "olive"
+    ],
+    "com.softmaker.freeoffice.planmaker": [
+        "freeoffice-planmaker"
+    ],
+    "com.softmaker.freeoffice.presentations": [
+        "freeoffice-presentations"
+    ],
+    "com.softmaker.freeoffice.textmaker": [
+        "freeoffice-textmaker"
+    ],
+    "com.alibaba.android.rimet": [
+        "dingtalk"
+    ],
+    "com.tencent.mobileqq": [
+        "qq",
+        "deepinwine-qq"
+    ],
+    "com.axosoft.gitkraken": [
+        "gitkraken"
+    ],
+    "app.zen_browser": [
+        "zen-browser",
+        "zen_browser",
+        "zen-twilight"
+    ],
+    "cc.arduino.create.android": [
+        "arduino"
+    ],
+    "com.foliate.reader": [
+        "foliate"
+    ],
+    "com.armagetron.android": [
+        "armagetron"
+    ],
+    "com.androlib.metronome": [
+        "gtick",
+        "metronome"
+    ],
+    "com.wordweb.software.android.wordweb": [
+        "artha"
+    ],
+    "org.aseprite.aseprite": [
+        "aseprite",
+        "libresprite"
+    ],
+    "fm.last.android": [
+        "lastfm"
+    ],
+    "com.atlauncher.app": [
+        "atlauncher"
+    ],
+    "org.audacious_media_player.audacious": [
+        "audacious"
+    ],
+    "com.audacity.editor": [
+        "audacity",
+        "tenacity",
+        "ocenaudio"
+    ],
+    "com.google.android.apps.recorder": [
+        "gnome-sound-recorder",
+        "audio-recorder",
+        "krecorder",
+        "deepin-voice-recorder"
+    ],
+    "com.google.android.apps.wallpaper": [
+        "preferences-desktop-wallpaper"
+    ],
+    "com.android.keychain": [
+        "keyring-manager",
+        "seahorse",
+        "kgpg",
+        "kleopatra",
+        "gnome-keyring",
+        "kwalletmanager"
+    ],
+    "com.frogmind.badland": [
+        "badland"
+    ],
+    "com.baidu.netdisk": [
+        "baidunetdisk"
+    ],
+    "com.google.android.settings": [
+        "barrier",
+        "input-leap"
+    ],
+    "com.blizzard.battlenet": [
+        "battlenet"
+    ],
+    "com.beeper.chat": [
+        "beeper"
+    ],
+    "org.mozilla.thunderbird": [
+        "betterbird",
+        "thunderbird"
+    ],
+    "com.google.android.minesweeper": [
+        "gnome-mines",
+        "kmines",
+        "minesweeper"
+    ],
+    "edu.berkeley.boinc": [
+        "boinc"
+    ],
+    "com.winlator": [
+        "bottles",
+        "wine"
+    ],
+    "com.dvlv.boxbuddy": [
+        "boxbuddy"
+    ],
+    "com.limbo.emu": [
+        "gnome-boxes",
+        "virtualbox",
+        "vmware",
+        "qemu",
+        "virt-manager"
+    ],
+    "com.brave.browser.beta": [
+        "brave-beta"
+    ],
+    "com.instagram.android": [
+        "instagram",
+        "ramme"
+    ],
+    "com.todoist": [
+        "todoist"
+    ],
+    "org.geogebra.android": [
+        "geogebra"
+    ],
+    "com.hp.printercontrol": [
+        "hp-logo",
+        "hplip",
+        "hplj1020_icon",
+        "hp-toolbox"
+    ],
+    "android.notion": [
+        "notion",
+        "notion-app-enhanced"
+    ],
+    "com.twitter.android": [
+        "tweetdeck",
+        "twitter",
+        "corebird",
+        "cawbird",
+        "choqok"
+    ],
+    "com.evernote": [
+        "evernote",
+        "nixnote",
+        "tusk"
+    ],
+    "com.reddit.frontpage": [
+        "reddit",
+        "giara"
+    ],
+    "com.teamviewer.teamviewer.market.mobile": [
+        "teamviewer"
+    ],
+    "org.gnucash.android": [
+        "gnucash",
+        "homebank",
+        "kmymoney",
+        "skrooge"
+    ],
+    "com.usebruno": [
+        "bruno"
+    ],
+    "com.android.feedback": [
+        "bug-buddy",
+        "apport",
+        "drkonqi",
+        "abrt"
+    ],
+    "com.popcorntime": [
+        "popcorntime",
+        "butter-desktop"
+    ],
+    "com.larksuite.suite": [
+        "bytedance-feishu"
+    ],
+    "com.celestegame": [
+        "celeste"
+    ],
+    "info.cemu.Cemu": [
+        "cemu"
+    ],
+    "chat.simplex.app": [
+        "simplex-chat"
+    ],
+    "org.openboard.app": [
+        "openboard"
+    ],
+    "ch.protonmail.android": [
+        "protonmail-bridge",
+        "proton-mail"
+    ],
+    "com.apple.icloud": [
+        "icloud"
+    ],
+    "com.slack": [
+        "slack"
+    ],
+    "com.postman.android": [
+        "postman"
+    ],
+    "com.authy.authy": [
+        "authy"
+    ],
+    "com.google.chromeremotedesktop": [
+        "remote-desktop",
+        "remmina",
+        "vinagre",
+        "krdc",
+        "krfb",
+        "connections"
+    ],
+    "in.cinny.app": [
+        "cinny"
+    ],
+    "com.cisco.anyconnect.vpn.android.avf": [
+        "cisco-anyconnect",
+        "openconnect"
+    ],
+    "com.citrix.receiver": [
+        "citrix",
+        "citrix-workspace"
+    ],
+    "com.aspyr.civvi": [
+        "civilization",
+        "freeciv"
+    ],
+    "com.antivirus": [
+        "clamav",
+        "clamtk"
+    ],
+    "com.github.kr328.clash": [
+        "clash",
+        "clash-verge"
+    ],
+    "com.anthropic.claude": [
+        "claude"
+    ],
+    "com.clickup": [
+        "clickup"
+    ],
+    "com.cockos.reaper": [
+        "cockos-reaper"
+    ],
+    "com.microsoft.vscode": [
+        "visual-studio-code",
+        "code-oss",
+        "vscode",
+        "vscodium",
+        "visual-studio-code-insiders"
+    ],
+    "com.fishstix.dosbox": [
+        "dosbox",
+        "dosbox-x",
+        "dosbox-staging"
+    ],
+    "com.mendeley": [
+        "mendeleydesktop"
+    ],
+    "com.netease.cloudmusic": [
+        "netease-cloud-music",
+        "netease-cloud-music-gtk"
+    ]
+}
