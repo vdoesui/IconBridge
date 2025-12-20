@@ -1,10 +1,10 @@
 [Desktop Entry]
-Name=isomorphicon
-Exec=isomorphicon
+Name=Isomorphicon
+Comment=Convert Android Icon Packs to Linux Themes
+Type=Application
+Exec=io.github.vdoesui.Isomorphicon
 Icon=io.github.vdoesui.Isomorphicon
 Terminal=false
-Type=Application
-Categories=Utility;
-Keywords=GTK;
+Categories=Utility;GTK;
 StartupNotify=true
-DBusActivatable=true
+Keywords=Android;Icon;Theme;Convert;
