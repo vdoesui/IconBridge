@@ -1,3 +1,18 @@
+# Carpetas de compilacion y temporales
+build_dir/
+.flatpak-builder/
+.gnome-builder/
+_temp_apktool_*/
+Isomorphicon_Output/
 
+# Python cache
+__pycache__/
 *.pyc
-*.pyc
+
+# Archivos de sistema y backups
+*~
+.DS_Store
+*.swp
+
+# Archivos basura o scripts de prueba
+useless.sh
