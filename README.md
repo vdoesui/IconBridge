@@ -1,5 +1,3 @@
-# Isomorphicon
-
 Extract and convert Android icon packs to Linux theme format.
 
 Automatically converts Android `.apk` icon packs into standard Linux icon themes compatible with KDE Plasma, GNOME, XFCE, and other desktop environments.
@@ -13,8 +11,8 @@ Automatically converts Android `.apk` icon packs into standard Linux icon themes
 ## Installation
 
 ```bash
-git clone https://github.com/vdoesui/IconBridge.git
-cd IconBridge
+git clone https://github.com/vdoesui/Isomorphicon.git
+cd Isomorphicon
 pip install -r requirements.txt
 ```
 
