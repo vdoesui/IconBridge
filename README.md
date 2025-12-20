@@ -1,4 +1,4 @@
-# IconBridge
+# Isomorphicon
 
 Extract and convert Android icon packs to Linux theme format.
 
