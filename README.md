@@ -4,6 +4,9 @@ Extract and convert Android icon packs to Linux theme format.
 
 Isomorphicon is a GTK4 application that automatically converts Android `.apk` icon packs into standard Linux icon themes compatible with KDE Plasma, GNOME, XFCE, and other desktop environments (or at least it *should*).
 
+![Screenshot](./ghimg/sc1.png)
+
+
 ## Installation
 
 Since this is not on Flathub yet, you have to build it yourself.
