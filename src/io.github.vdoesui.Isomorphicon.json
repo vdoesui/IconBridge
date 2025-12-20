@@ -1,5 +1,6 @@
 {
     "app-id" : "io.github.vdoesui.Isomorphicon",
+    "command" : "io.github.vdoesui.Isomorphicon",
     "runtime" : "org.gnome.Platform",
     "runtime-version" : "48",
     "sdk" : "org.gnome.Sdk",
@@ -71,12 +72,14 @@
                 }
             ],
             "post-install": [
-                "mkdir -p /app/bin",
-                "echo '#!/bin/sh' > /app/bin/isomorphicon",
-                "echo 'export PYTHONPATH=/app/share/isomorphicon' >> /app/bin/isomorphicon",
-                "echo 'exec python3 /app/share/isomorphicon/main.py \"$@\"' >> /app/bin/isomorphicon",
-                "chmod +x /app/bin/isomorphicon"
-            ]
+		    "mkdir -p /app/bin",
+		    "echo '#!/bin/sh' > /app/bin/isomorphicon",
+		    "echo 'export PYTHONPATH=/app/share/isomorphicon' >> /app/bin/isomorphicon",
+		    "echo 'exec python3 /app/share/isomorphicon/main.py \"$@\"' >> /app/bin/isomorphicon",
+		    "chmod +x /app/bin/isomorphicon",
+
+		    "install -Dm644 data/io.github.vdoesui.Isomorphicon.desktop.in /app/share/applications/io.github.vdoesui.Isomorphicon.desktop"
+	    ]
         }
     ]
 }

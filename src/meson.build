@@ -21,7 +21,7 @@ install_subdir('Config', install_dir: pkgdatadir)
 
 # Script de arranque manual
 install_data('main.py',
-  rename: 'isomorphicon',
+  rename: 'io.github.vdoesui.Isomorphicon',
   install_dir: get_option('bindir'),
   install_mode: 'rwxr-xr-x'
 )
