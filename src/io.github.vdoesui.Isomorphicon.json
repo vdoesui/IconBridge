@@ -1,0 +1,82 @@
+{
+    "app-id" : "io.github.vdoesui.Isomorphicon",
+    "runtime" : "org.gnome.Platform",
+    "runtime-version" : "48",
+    "sdk" : "org.gnome.Sdk",
+    "sdk-extensions" : [
+        "org.freedesktop.Sdk.Extension.openjdk17"
+    ],
+    "command" : "isomorphicon",
+    "finish-args" : [
+        "--share=ipc",
+        "--socket=fallback-x11",
+        "--socket=wayland",
+        "--device=dri",
+        "--share=network",
+        "--nofilesystem=host",
+        "--nofilesystem=home",
+        "--filesystem=xdg-run/dconf",
+        "--env=PATH=/app/bin:/usr/bin:/app/jre/bin",
+        "--env=PYTHONUNBUFFERED=1"
+    ],
+    "modules" : [
+        {
+            "name" : "openjdk",
+            "buildsystem" : "simple",
+            "build-commands" : [
+                "/usr/lib/sdk/openjdk17/install.sh"
+            ]
+        },
+        {
+            "name" : "pillow",
+            "buildsystem" : "simple",
+            "build-commands" : [
+                "pip3 install --prefix=/app --no-deps --no-build-isolation ."
+            ],
+            "sources" : [
+                {
+                    "type" : "git",
+                    "url" : "https://github.com/python-pillow/Pillow.git",
+                    "tag" : "10.2.0"
+                }
+            ]
+        },
+        {
+            "name" : "apktool",
+            "buildsystem" : "simple",
+            "build-commands" : [
+                "install -D apktool.jar /app/bin/apktool.jar",
+                "echo '#!/bin/sh' > apktool",
+                "echo 'exec java -jar /app/bin/apktool.jar \"$@\"' >> apktool",
+                "chmod +x apktool",
+                "install -D apktool /app/bin/apktool"
+            ],
+            "sources" : [
+                {
+                    "type" : "file",
+                    "url" : "https://bitbucket.org/iBotPeaches/apktool/downloads/apktool_2.9.3.jar",
+                    "dest-filename" : "apktool.jar",
+                    "sha256" : "7956eb04194300ce0d0a84ad18771eebc94b89fb8d1ddcce8ea4c056818646f4"
+                }
+            ]
+        },
+        {
+            "name" : "isomorphicon",
+            "builddir" : true,
+            "buildsystem" : "meson",
+            "sources" : [
+                {
+                    "type" : "dir",
+                    "path" : "."
+                }
+            ],
+            "post-install": [
+                "mkdir -p /app/bin",
+                "echo '#!/bin/sh' > /app/bin/isomorphicon",
+                "echo 'export PYTHONPATH=/app/share/isomorphicon' >> /app/bin/isomorphicon",
+                "echo 'exec python3 /app/share/isomorphicon/main.py \"$@\"' >> /app/bin/isomorphicon",
+                "chmod +x /app/bin/isomorphicon"
+            ]
+        }
+    ]
+}
