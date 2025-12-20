@@ -71,8 +71,6 @@ Contributions are welcome. The mapping definitions in `Config/mappings.json` can
 This software is provided as-is without warranty. The authors are not responsible for any damages caused by its use, including data loss or system issues. Use at your own risk.
 
 ## License
-
-License
 Isomorphicon is licensed under the European Union Public Licence v1.2 (EUPL-1.2).
 
 Third Party: This software uses Apktool (Copyright © 2010 Ryszard Wiśniewski, Connor Tumbleson), licensed under the Apache License 2.0.
