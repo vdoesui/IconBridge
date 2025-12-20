@@ -1,47 +1,33 @@
 Extract and convert Android icon packs to Linux theme format.
 
-Automatically converts Android `.apk` icon packs into standard Linux icon themes compatible with KDE Plasma, GNOME, XFCE, and other desktop environments.
-
-## Requirements
-
-- Python 3.7+
-- Pillow
-- apktool (system dependency)
+Isomorphicon is a GTK4 application that automatically converts Android `.apk` icon packs into standard Linux icon themes compatible with KDE Plasma, GNOME, XFCE, and other desktop environments (or at least it *should*).
 
 ## Installation
 
+Since this is not on Flathub yet, you have to build it yourself.
+
+Building from source
+Clone the repository: 
+
 ```bash
-git clone https://github.com/vdoesui/Isomorphicon.git
-cd Isomorphicon
-pip install -r requirements.txt
+git clone https://github.com/vdoesui/Isomorphicon.git cd Isomorphicon
 ```
 
-Ensure `apktool` is installed and in your PATH.
+Build and install the Flatpak: 
+```bash
+flatpak-builder --user --install --force-clean build_dir io.github.vdoesui.Isomorphicon.json
+```
 
 ## Usage
+Browse to select your .apk icon pack.
 
-Basic usage:
+Inherits: Comma-separated list of parent themes (default: breeze-dark,breeze,Adwaita,hicolor).
 
-```bash
-python main.py path/to/iconpack.apk
-```
+Install Theme: Toggle this switch to automatically install the generated theme to ~/.local/share/icons/. (If "Install Theme" is OFF: The theme is saved to ~/Isomorphicon_Output/)
 
-Install to system themes:
+Click Convert.
 
-```bash
-python main.py path/to/iconpack.apk --install
-```
-
-Custom theme parents:
-
-```bash
-python main.py path/to/iconpack.apk --inherits "Adwaita,hicolor"
-```
-
-### Options
-
-- `-i, --install` — Install theme to `~/.local/share/icons/`
-- `--inherits` — Comma-separated list of parent themes (default: `breeze-dark,breeze,Adwaita,hicolor`)
+*I've been trying to improve it as much as possible, however until literally every mapping has an exact match between android app and app package, and that includes variations like flatpak and stuff... there will be errors.*
 
 ## Output
 
@@ -58,11 +44,11 @@ theme_name/
 
 ## How it works
 
-IconBridge processes Android icon packs in three phases:
+Isomorphicon processes Android icon packs in three phases:
 
-1. **Parse official mappings** from `appfilter.xml` and group candidate icons by package
-2. **Mildly intelligent search** with fuzzy matching to find icons when official mappings don't exist
-3. **Extract remaining** icons that weren't explicitly mapped in case they happen to match an unmapped app.
+- Parse official mappings from appfilter.xml and group candidate icons by package.
+- Mildly intelligent search with fuzzy matching to find icons when official mappings don't exist.
+- Extract remaining icons that weren't explicitly mapped in case they happen to match an unmapped app.
 
 The fuzzy matcher scores files based on:
 - Exact name match (1000)
@@ -81,6 +67,9 @@ This software is provided as-is without warranty. The authors are not responsibl
 
 ## License
 
-IconBridge is licensed under the European Union Public Licence v1.2 (EUPL-1.2).
+License
+Isomorphicon is licensed under the European Union Public Licence v1.2 (EUPL-1.2).
 
-Icon themes are derivative works of the original Android icon packs and remain subject to their respective licenses, what you do, or can do, or can't do, is your problem. Check whatever the author says. (No apks or icon packs are included, but still, don't go around breaking icon pack copyright or whatever)
+Third Party: This software uses Apktool (Copyright © 2010 Ryszard Wiśniewski, Connor Tumbleson), licensed under the Apache License 2.0.
+
+Icon themes are derivative works of the original Android icon packs and remain subject to their respective licenses, what you do, or can do, or can't do, is your problem. Check whatever the author says. (No apks or icon packs are included, but still, don't go around breaking icon pack copyright or whatever).
