@@ -15,7 +15,8 @@ Building from source
 Clone the repository: 
 
 ```bash
-git clone https://github.com/vdoesui/Isomorphicon.git cd Isomorphicon
+git clone https://github.com/vdoesui/Isomorphicon.git
+cd Isomorphicon
 ```
 
 Build and install the Flatpak: 
